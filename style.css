@@ -1,0 +1,61 @@
+#headr {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(133, 185, 209);
+  color: white;
+  text-align: center;
+  padding: 1%;
+  font-size: 150%;
+}
+
+#footr {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(212, 147, 153);
+  color: white;
+  text-align: center;
+}
+
+#navi {
+  width: 10%;
+  height: 50%;
+  float: left;
+}
+#win {
+  width: 50%;
+  float: right;
+}
+
+#par {
+  height: 50%;
+}
+
+ul {
+  list-style-type: square;
+}
+a {
+  text-decoration: none;
+}
+li {
+  margin-top: 5px;
+  width: 30px;
+}
+
+#title {
+  margin-left: 20px;
+  font-size: 50px;
+}
+.btn-success,.tle{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 100px;
+  height: 50px;
+}
+
+.input_text{
+margin-bottom: 5px;
+}
